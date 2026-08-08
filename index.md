@@ -6,7 +6,7 @@
 
 Please read these Terms of Service (hereinafter referred to as the "Terms") carefully before using the **Debater** mobile application (hereinafter referred to as the "Application" or "Service").
 
-These Terms constitute a legally binding agreement between you (hereinafter referred to as the "User") and **[Your Company Name / Developer Name]** (hereinafter referred to as the "Developer", "Administration", "we", "us", or "our").
+These Terms constitute a legally binding agreement between you (hereinafter referred to as the "User") and **Andrei Sukharev** (hereinafter referred to as the "Developer", "Administration", "we", "us", or "our").
 
 By downloading, installing, or using the Application, as well as registering an account, you confirm that you have read, understood, and fully agree to these Terms. If you do not agree to these Terms, you may not use the Application.
 
